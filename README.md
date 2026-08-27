@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/sshhamiill/leetcodes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2418-sort-the-people](https://github.com/sshhamiill/leetcodes/tree/main/2418-sort-the-people/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -20,10 +21,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/sshhamiill/leetcodes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2418-sort-the-people](https://github.com/sshhamiill/leetcodes/tree/main/2418-sort-the-people/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/sshhamiill/leetcodes/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sshhamiill/leetcodes/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sshhamiill/leetcodes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
