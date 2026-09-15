@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/sshhamiill/leetcodes/tree/main/0009-palindrome-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sshhamiill/leetcodes/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2235-add-two-integers](https://github.com/sshhamiill/leetcodes/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/sshhamiill/leetcodes/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sshhamiill/leetcodes/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
