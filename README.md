@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/sshhamiill/leetcodes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sshhamiill/leetcodes/tree/main/1929-concatenation-of-array/) | Easy |
 | [2418-sort-the-people](https://github.com/sshhamiill/leetcodes/tree/main/2418-sort-the-people/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sshhamiill/leetcodes/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/sshhamiill/leetcodes/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sshhamiill/leetcodes/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2235-add-two-integers](https://github.com/sshhamiill/leetcodes/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/sshhamiill/leetcodes/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sshhamiill/leetcodes/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sshhamiill/leetcodes/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
