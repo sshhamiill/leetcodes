@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/sshhamiill/leetcodes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/sshhamiill/leetcodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sshhamiill/leetcodes/tree/main/1929-concatenation-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sshhamiill/leetcodes/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2418-sort-the-people](https://github.com/sshhamiill/leetcodes/tree/main/2418-sort-the-people/) | Easy |
@@ -64,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/sshhamiill/leetcodes/tree/main/2413-smallest-even-multiple/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sshhamiill/leetcodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
