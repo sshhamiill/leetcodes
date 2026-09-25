@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/sshhamiill/leetcodes/tree/main/0136-single-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sshhamiill/leetcodes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sshhamiill/leetcodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sshhamiill/leetcodes/tree/main/1929-concatenation-of-array/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/sshhamiill/leetcodes/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/sshhamiill/leetcodes/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
