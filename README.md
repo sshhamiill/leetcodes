@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/sshhamiill/leetcodes/tree/main/0136-single-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/sshhamiill/leetcodes/tree/main/0217-contains-duplicate/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sshhamiill/leetcodes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sshhamiill/leetcodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sshhamiill/leetcodes/tree/main/1929-concatenation-of-array/) | Easy |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/sshhamiill/leetcodes/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sshhamiill/leetcodes/tree/main/0242-valid-anagram/) | Easy |
 | [2418-sort-the-people](https://github.com/sshhamiill/leetcodes/tree/main/2418-sort-the-people/) | Easy |
 ## String
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/sshhamiill/leetcodes/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sshhamiill/leetcodes/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sshhamiill/leetcodes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2418-sort-the-people](https://github.com/sshhamiill/leetcodes/tree/main/2418-sort-the-people/) | Easy |
