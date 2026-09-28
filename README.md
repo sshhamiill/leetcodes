@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/sshhamiill/leetcodes/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/sshhamiill/leetcodes/tree/main/0412-fizz-buzz/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/sshhamiill/leetcodes/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sshhamiill/leetcodes/tree/main/1929-concatenation-of-array/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/sshhamiill/leetcodes/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/sshhamiill/leetcodes/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/sshhamiill/leetcodes/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/sshhamiill/leetcodes/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sshhamiill/leetcodes/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/sshhamiill/leetcodes/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/sshhamiill/leetcodes/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/sshhamiill/leetcodes/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
