@@ -18,12 +18,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/sshhamiill/leetcodes/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/sshhamiill/leetcodes/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sshhamiill/leetcodes/tree/main/0242-valid-anagram/) | Easy |
 | [2418-sort-the-people](https://github.com/sshhamiill/leetcodes/tree/main/2418-sort-the-people/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/sshhamiill/leetcodes/tree/main/0013-roman-to-integer/) | Easy |
 | [0125-valid-palindrome](https://github.com/sshhamiill/leetcodes/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/sshhamiill/leetcodes/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sshhamiill/leetcodes/tree/main/0344-reverse-string/) | Easy |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/sshhamiill/leetcodes/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/sshhamiill/leetcodes/tree/main/0013-roman-to-integer/) | Easy |
 | [0231-power-of-two](https://github.com/sshhamiill/leetcodes/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/sshhamiill/leetcodes/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/sshhamiill/leetcodes/tree/main/0326-power-of-three/) | Easy |
