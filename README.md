@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-even-multiple](https://github.com/sshhamiill/leetcodes/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/sshhamiill/leetcodes/tree/main/2469-convert-the-temperature/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sshhamiill/leetcodes/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sshhamiill/leetcodes/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sshhamiill/leetcodes/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/sshhamiill/leetcodes/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3959-check-good-integer](https://github.com/sshhamiill/leetcodes/tree/main/3959-check-good-integer/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/sshhamiill/leetcodes/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/sshhamiill/leetcodes/tree/main/2413-smallest-even-multiple/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sshhamiill/leetcodes/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
