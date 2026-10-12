@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-convert-the-temperature](https://github.com/sshhamiill/leetcodes/tree/main/2469-convert-the-temperature/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sshhamiill/leetcodes/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sshhamiill/leetcodes/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/sshhamiill/leetcodes/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3959-check-good-integer](https://github.com/sshhamiill/leetcodes/tree/main/3959-check-good-integer/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
