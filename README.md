@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2418-sort-the-people](https://github.com/sshhamiill/leetcodes/tree/main/2418-sort-the-people/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sshhamiill/leetcodes/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/sshhamiill/leetcodes/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/sshhamiill/leetcodes/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sshhamiill/leetcodes/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/sshhamiill/leetcodes/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-reverse-only-letters](https://github.com/sshhamiill/leetcodes/tree/main/0917-reverse-only-letters/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sshhamiill/leetcodes/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2418-sort-the-people](https://github.com/sshhamiill/leetcodes/tree/main/2418-sort-the-people/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/sshhamiill/leetcodes/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
