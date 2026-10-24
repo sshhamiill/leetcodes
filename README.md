@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sshhamiill/leetcodes/tree/main/0217-contains-duplicate/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sshhamiill/leetcodes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sshhamiill/leetcodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1816-truncate-sentence](https://github.com/sshhamiill/leetcodes/tree/main/1816-truncate-sentence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sshhamiill/leetcodes/tree/main/1929-concatenation-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sshhamiill/leetcodes/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2418-sort-the-people](https://github.com/sshhamiill/leetcodes/tree/main/2418-sort-the-people/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/sshhamiill/leetcodes/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/sshhamiill/leetcodes/tree/main/0709-to-lower-case/) | Easy |
 | [0917-reverse-only-letters](https://github.com/sshhamiill/leetcodes/tree/main/0917-reverse-only-letters/) | Easy |
+| [1816-truncate-sentence](https://github.com/sshhamiill/leetcodes/tree/main/1816-truncate-sentence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sshhamiill/leetcodes/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2418-sort-the-people](https://github.com/sshhamiill/leetcodes/tree/main/2418-sort-the-people/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/sshhamiill/leetcodes/tree/main/2678-number-of-senior-citizens/) | Easy |
