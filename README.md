@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2185-counting-words-with-a-given-prefix](https://github.com/sshhamiill/leetcodes/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2418-sort-the-people](https://github.com/sshhamiill/leetcodes/tree/main/2418-sort-the-people/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/sshhamiill/leetcodes/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [3894-traffic-signal-color](https://github.com/sshhamiill/leetcodes/tree/main/3894-traffic-signal-color/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/sshhamiill/leetcodes/tree/main/1929-concatenation-of-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/sshhamiill/leetcodes/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sshhamiill/leetcodes/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3894-traffic-signal-color](https://github.com/sshhamiill/leetcodes/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/sshhamiill/leetcodes/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3959-check-good-integer](https://github.com/sshhamiill/leetcodes/tree/main/3959-check-good-integer/) | Easy |
 ## Math
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sshhamiill/leetcodes/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sshhamiill/leetcodes/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/sshhamiill/leetcodes/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3894-traffic-signal-color](https://github.com/sshhamiill/leetcodes/tree/main/3894-traffic-signal-color/) | Easy |
 | [3959-check-good-integer](https://github.com/sshhamiill/leetcodes/tree/main/3959-check-good-integer/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
