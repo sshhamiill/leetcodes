@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/sshhamiill/leetcodes/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/sshhamiill/leetcodes/tree/main/0709-to-lower-case/) | Easy |
 | [0917-reverse-only-letters](https://github.com/sshhamiill/leetcodes/tree/main/0917-reverse-only-letters/) | Easy |
+| [1544-make-the-string-great](https://github.com/sshhamiill/leetcodes/tree/main/1544-make-the-string-great/) | Easy |
 | [1816-truncate-sentence](https://github.com/sshhamiill/leetcodes/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sshhamiill/leetcodes/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/sshhamiill/leetcodes/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1544-make-the-string-great](https://github.com/sshhamiill/leetcodes/tree/main/1544-make-the-string-great/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/sshhamiill/leetcodes/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
