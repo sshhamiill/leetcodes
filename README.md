@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/sshhamiill/leetcodes/tree/main/0242-valid-anagram/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sshhamiill/leetcodes/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2418-sort-the-people](https://github.com/sshhamiill/leetcodes/tree/main/2418-sort-the-people/) | Easy |
+| [3945-digit-frequency-score](https://github.com/sshhamiill/leetcodes/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sshhamiill/leetcodes/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/sshhamiill/leetcodes/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3894-traffic-signal-color](https://github.com/sshhamiill/leetcodes/tree/main/3894-traffic-signal-color/) | Easy |
+| [3945-digit-frequency-score](https://github.com/sshhamiill/leetcodes/tree/main/3945-digit-frequency-score/) | Easy |
 | [3959-check-good-integer](https://github.com/sshhamiill/leetcodes/tree/main/3959-check-good-integer/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
