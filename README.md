@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/sshhamiill/leetcodes/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/sshhamiill/leetcodes/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sshhamiill/leetcodes/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2942-find-words-containing-character](https://github.com/sshhamiill/leetcodes/tree/main/2942-find-words-containing-character/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/sshhamiill/leetcodes/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2185-counting-words-with-a-given-prefix](https://github.com/sshhamiill/leetcodes/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2418-sort-the-people](https://github.com/sshhamiill/leetcodes/tree/main/2418-sort-the-people/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/sshhamiill/leetcodes/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [2942-find-words-containing-character](https://github.com/sshhamiill/leetcodes/tree/main/2942-find-words-containing-character/) | Easy |
 | [3894-traffic-signal-color](https://github.com/sshhamiill/leetcodes/tree/main/3894-traffic-signal-color/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
